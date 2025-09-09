@@ -4,12 +4,11 @@
  */
 var singleNumber = function(nums) {
     // if(nums.length<1) return 1;
-  var arr = nums.sort((a, b) => a - b); // Create a copy of the array and sort it
-
+//   var arr = nums.sort((a, b) => a - b); // Create a copy of the array and sort it
+var xor=0
     // var number;
-    for(var i=0;i<nums.length;i=i+2){
-        if(arr[i] != arr[i+1])
-        return arr[i]
+    for(var i=0;i<nums.length;i++){
+        xor=xor^nums[i]
     }
-   return arr[arr.length-1]
+   return xor
 };
