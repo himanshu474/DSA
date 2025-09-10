@@ -6,9 +6,10 @@ var containsDuplicate = function(nums) {
 
       var arr = nums.sort((a, b) => a - b); 
 
-    for(var i=0;i<=arr.length-1;i++)
+    
+    for(var i=0;i<=nums.length-1;i++)
     {
-            if(arr[i] === arr[i+1])
+            if(nums[i] === nums[i+1])
             {
                 return true
             }
