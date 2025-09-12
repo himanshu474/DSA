@@ -5,21 +5,19 @@
 
 
 var summaryRanges = function(nums) {
-    var res=[];
+    let result = [];
+  let start = 0;
 
-  if(nums.length === 0) return res;
-    var start=nums[0]
-
-    for(var i=1;i<nums.length;i++){
-
-        if(nums[i] !== nums[i-1]+1){
-             res.push(start === nums[i - 1] ? String(start) : `${start}->${nums[i - 1]}`);
-             start = nums[i];
-        }
+  for (let i = 0; i < nums.length; i++) {
+    // Check if this is the end of a range
+    if (i + 1 === nums.length || nums[i] + 1 !== nums[i + 1]) {
+      if (start === i) {
+        result.push(nums[start].toString());
+      } else {
+        result.push(nums[start] + "->" + nums[i]);
+      }
+      start = i + 1;
     }
-
-     var last = nums[nums.length - 1];
-  res.push(start === last ? String(start) : `${start}->${last}`);
-
-  return res;
+  }
+  return result;
 };
