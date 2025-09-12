@@ -4,38 +4,17 @@
  * @return {boolean}
  */
 var containsNearbyDuplicate = function(nums, k) {
-//    const set = new Set();
-    
-//     for (let i = 0; i < nums.length; i++) {
-//         // Remove the element that is now outside the window
-//         if (i > k) {
-//             set.delete(nums[i - k - 1]);
-//         }
-        
-//         // Check for duplicate in the current window
-//         if (set.has(nums[i])) {
-//             return true;
-//         }
-        
-//         // Add the current element to the window
-//         set.add(nums[i]);
-//     }
-    
-//     return false;
+  if (k <= 0) return false;         // optional early guard
+  const seen = new Set();
+  for (let i = 0; i < nums.length; i++) {
+    // 1) Check whether current value exists among the up-to-k previous elements
+    if (seen.has(nums[i])) return true;
 
-const map= new Map();
+    // 2) Add current value into the window
+    seen.add(nums[i]);
 
-for(var i=0;i<nums.length;i++){
-    if(map.has(nums[i])){
-        const j= map.get(nums[i])
-    
-    if(Math.abs(j-i)<=k)
-    {
-        return true 
-    }
-    }
-    map.set(nums[i],i)
-
-}
-return false;
+    // 3) Keep the window size <= k by removing the element that fell out
+    if (seen.size > k) seen.delete(nums[i - k]);
+  }
+  return false;
 };
