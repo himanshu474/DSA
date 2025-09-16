@@ -1,3 +1,6 @@
+/**
+ * @param {number[]} nums
+ */
 var NumArray = function(nums) {
     
     this.size = nums.length; //stores length of array
@@ -34,3 +37,11 @@ NumArray.prototype.sumRange = function(left, right) {
     
     
 };
+
+
+
+/** 
+ * Your NumArray object will be instantiated and called as such:
+ * var obj = new NumArray(nums)
+ * var param_1 = obj.sumRange(left,right)
+ */
