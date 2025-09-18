@@ -2,16 +2,7 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-var findDisappearedNumbers = function(nums) {
-    
-    var set1=new Set(nums)
-    let missing=[]
-
-    for(var i=1;i<=nums.length;i++){
-        if(!set1.has(i)){
-            missing.push(i)
-        }
-    }
-return missing
-
+  var findDisappearedNumbers = function(nums) {
+     let set1 = new Set(nums);
+  return Array.from({ length: nums.length }, (_, i) => i + 1).filter(x => !set1.has(x));
 };
