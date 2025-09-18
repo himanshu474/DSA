@@ -5,19 +5,18 @@
  */
    var findContentChildren = function(g, s) {
     
-    var n=g.length;
-    var m=s.length;
-    var r=0
-    var l=0
-    g.sort((a,b)=>a-b)
-    s.sort((a,b)=>a-b)
-    while(l<m){
-       if(g[r]<=s[l])
-       {
-        r=r+1
-       }
-       l=l+1
+     g.sort((a, b) => a - b);
+    s.sort((a, b) => a - b);
+    let i = 0, j = 0, count = 0;
+
+    while (i < g.length && j < s.length) {
+        if (s[j] >= g[i]) {
+            count++;
+            i++;
+        }
+        j++;
     }
-    return r;
+
+    return count;
 
    };
