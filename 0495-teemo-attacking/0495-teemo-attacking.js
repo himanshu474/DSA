@@ -13,10 +13,7 @@ var findPoisonedDuration = function(timeSeries, duration) {
     var totalPoisonedTime=0;
 
     for(var i=0;i<timeSeries.length-1;i++){
-        const currentAttackTime=timeSeries[i]
-        const nextAttackTime=timeSeries[i+1]
-        const timeBetweenAttacks=nextAttackTime-currentAttackTime;
-        totalPoisonedTime+=Math.min(duration,timeBetweenAttacks)
+        totalPoisonedTime+=Math.min(duration,timeSeries[i+1]-timeSeries[i])
     }
 
     totalPoisonedTime+=duration;
