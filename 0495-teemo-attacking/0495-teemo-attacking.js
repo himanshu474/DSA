@@ -5,10 +5,10 @@
  */
 var findPoisonedDuration = function(timeSeries, duration) {
 
-    if(!timeSeries || timeSeries.length ===0 || duration === 0) 
-    {
-        return 0;
-        }
+    // if(!timeSeries || timeSeries.length ===0 || duration === 0) 
+    // {
+    //     return 0;
+    //     }
     
     var totalPoisonedTime=0;
 
