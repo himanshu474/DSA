@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/himanshu474/DSA/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/himanshu474/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/himanshu474/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/himanshu474/DSA/tree/master/0500-keyboard-row) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshu474/DSA/tree/master/0014-longest-common-prefix) |
+| [0500-keyboard-row](https://github.com/himanshu474/DSA/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshu474/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/himanshu474/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/himanshu474/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/himanshu474/DSA/tree/master/0500-keyboard-row) |
 ## Sorting
 |  |
 | ------- |
