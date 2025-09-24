@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/himanshu474/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/himanshu474/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/himanshu474/DSA/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/himanshu474/DSA/tree/master/0506-relative-ranks) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshu474/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/himanshu474/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/himanshu474/DSA/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/himanshu474/DSA/tree/master/0506-relative-ranks) |
 ## Counting
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/himanshu474/DSA/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/himanshu474/DSA/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
