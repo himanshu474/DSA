@@ -13,6 +13,7 @@ var isPalindrome = function(x) {
     }
    return temp===original
 };
+
  process.on("exit", () => {
     require("fs").writeFileSync("display_runtime.txt", "0");
 });
