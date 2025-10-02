@@ -3,24 +3,17 @@
  * @return {number}
  */
 var romanToInt = function(s) {
-    const values = {
-        'I': 1, 'V': 5, 'X': 10,
-        'L': 50, 'C': 100,
-        'D': 500, 'M': 1000
+    const romanToInt = {
+        'I': 1, 'V': 5, 'X': 10, 'L': 50,
+        'C': 100, 'D': 500, 'M': 1000
     };
-
-    let total = 0;
-
+    let result = 0;
     for (let i = 0; i < s.length; i++) {
-        let curr = values[s[i]];
-        let next = values[s[i + 1]];
-
-        if (next && curr < next) {
-            total -= curr; // subtract if smaller before bigger
+        if (i + 1 < s.length && romanToInt[s[i]] < romanToInt[s[i + 1]]) {
+            result -= romanToInt[s[i]];
         } else {
-            total += curr; // otherwise add
+            result += romanToInt[s[i]];
         }
     }
-
-    return total;
+    return result;
 };
