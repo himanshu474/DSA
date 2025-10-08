@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/himanshu474/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/himanshu474/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/himanshu474/DSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshu474/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/himanshu474/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0500-keyboard-row](https://github.com/himanshu474/DSA/tree/master/0500-keyboard-row) |
 ## Trie
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshu474/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/himanshu474/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/himanshu474/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshu474/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/himanshu474/DSA/tree/master/0021-merge-two-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshu474/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
