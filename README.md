@@ -166,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/himanshu474/DSA/tree/master/0506-relative-ranks) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/himanshu474/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/himanshu474/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
