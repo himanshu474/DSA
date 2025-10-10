@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/himanshu474/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshu474/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/himanshu474/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/himanshu474/DSA/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/himanshu474/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0500-keyboard-row](https://github.com/himanshu474/DSA/tree/master/0500-keyboard-row) |
 ## Trie
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/himanshu474/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/himanshu474/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/himanshu474/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/himanshu474/DSA/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/himanshu474/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/himanshu474/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/himanshu474/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/himanshu474/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/himanshu474/DSA/tree/master/0268-missing-number) |
 ## Hash Table
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/himanshu474/DSA/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/himanshu474/DSA/tree/master/0495-teemo-attacking) |
 ## Stack
 |  |
