@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/himanshu474/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/himanshu474/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/himanshu474/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/himanshu474/DSA/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/himanshu474/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/himanshu474/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/himanshu474/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/himanshu474/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/himanshu474/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshu474/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshu474/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/himanshu474/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
