@@ -4,17 +4,13 @@
  * @return {string}
  */
 var mergeAlternately = function(word1, word2) {
-    let res=""
-    let i=0,j=0
+    let res = "";
+    let i = 0;
+    const minLen = Math.min(word1.length, word2.length);
 
-while(i<word1.length || j<word2.length){
+    for (i = 0; i < minLen; i++) {
+        res += word1[i] + word2[i];
+    }
 
-    if(i<word1.length)
-    res+=word1[i++];
-    if(j<word2.length)
-    res+=word2[j++]
-}
-
-return res
-
+    return res + word1.slice(i) + word2.slice(i);
 };
