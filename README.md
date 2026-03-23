@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/himanshu474/DSA/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/himanshu474/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0500-keyboard-row](https://github.com/himanshu474/DSA/tree/master/0500-keyboard-row) |
+| [1768-merge-strings-alternately](https://github.com/himanshu474/DSA/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/himanshu474/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshu474/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/himanshu474/DSA/tree/master/0455-assign-cookies) |
+| [1768-merge-strings-alternately](https://github.com/himanshu474/DSA/tree/master/1768-merge-strings-alternately) |
 ## Design
 |  |
 | ------- |
