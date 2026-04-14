@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/himanshu474/DSA/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/himanshu474/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0500-keyboard-row](https://github.com/himanshu474/DSA/tree/master/0500-keyboard-row) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/himanshu474/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/himanshu474/DSA/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/himanshu474/DSA/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/himanshu474/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/himanshu474/DSA/tree/master/0268-missing-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/himanshu474/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
