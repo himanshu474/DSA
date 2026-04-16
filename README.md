@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/himanshu474/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/himanshu474/DSA/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/himanshu474/DSA/tree/master/0506-relative-ranks) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/himanshu474/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## String
 |  |
 | ------- |
