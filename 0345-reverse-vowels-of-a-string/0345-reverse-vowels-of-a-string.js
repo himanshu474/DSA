@@ -4,20 +4,27 @@
  */
 var reverseVowels = function(s) {
     let i=0;
-    let vow = new Set(['a','e','i','o','u','A','E','I','O','U']);
+    let vow = ['a','e','i','o','u','A','E','I','O','U'];
     let res=s.split("")
     let j=res.length-1
 
     while(i<j)
     {
-       while(i<j && !vow.has(res[i])) i++;
-       while(i<j && !vow.has(res[j])) j--;
+        if(!vow.includes(res[i])){
+            i++
+        }
+        else if(!vow.includes(res[j])){
+            j--;
+        }
+        else{
+          let temp=res[i];
+          res[i]=res[j];
+          res[j]=temp
 
-       [res[i],res[j]] =[res[j],res[i]];
+          i++;
+           j--;
 
-       i++;
-       j--;
-
+        }
     }
     return res.join("")
 };
